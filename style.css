@@ -98,25 +98,26 @@ li.dropdown {
   clear: both;
 }
 
-/* .top-nav {
-  width: 400px;
+.top-nav {
+  width: 200px;
   position: fixed;
   z-index: 1;
-  float: center;
+  float: right;
   background: #eee;
   overflow-x: wrap;
   padding: 4px;
+  right: 0;
 }
 .top-nav a {
   text-decoration: none;
   font-size: 20px;
   color: #cca7a2ff;
-  display: inline block;
+  display: block;
   padding: 4px;
 }
 .top-nav a:hover {
-  color: darkblue;
-} */
+  color: #8b706c;
+}
 
 /* buttons on home page */
 .buttons {
@@ -174,7 +175,12 @@ li.dropdown {
 #maya-img {
     height: 300px;
   width: 300px;
-} 
+}
+
+#nithya-img {
+    height: 300px;
+    width: 300px;
+}
 
 
  .team-images {
@@ -201,6 +207,10 @@ li.dropdown {
 }
 
 .scarlett {
+  padding-left: 30px;
+}
+
+.nithya {
   padding-left: 30px;
 }
 
